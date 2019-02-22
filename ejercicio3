@@ -1,0 +1,10 @@
+if num == 0:
+  print('El número no es negativo o positivo , por ende es cero')
+else:
+ if num>0:
+  print('El número es positivo')
+ else: 
+   if num<0:
+    print('El número es negativo')
+
+
